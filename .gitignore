@@ -1,0 +1,58 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment variable files
+.env
+
+# Ignore compiled source files
+*.class
+*.pyc
+*.o
+
+# Ignore dependency directories
+vendor/
+bower_components/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore compiled libraries
+*.dll
+*.so
+*.dylib
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore archives
+*.zip
+*.tar.gz
+*.rar
