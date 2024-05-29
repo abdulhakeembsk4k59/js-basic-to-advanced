@@ -1,3 +1,15 @@
+# Ignore all hidden directories
+.*
+
+# But keep the .git directory
+!.git/
+
+# And keep the .github directory
+!.github/
+
+# And keep the .vscode directory
+!.vscode/
+
 # Ignore macOS system files
 .DS_Store
 
