@@ -106,7 +106,7 @@ Here are some exercises to practice your understanding of JavaScript variables:
    console.log(name, age, isStudent);
    ```
 </details>
-
+```
 2. **Variable Reassignment**
    - Declare a variable `color` using `let` and assign it a value. Reassign the value of `color` and log the result to the console.
 
