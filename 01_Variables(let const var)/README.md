@@ -95,9 +95,6 @@ Here are some exercises to practice your understanding of JavaScript variables:
 1. **Basic Variable Declaration**
    - Declare three variables: `name`, `age`, and `isStudent`. Assign appropriate values to them and log them to the console.
 
-
-<details>
-  <summary>Show Solution</summary>
    ```javascript
    let name = "John Doe";
    let age = 25;
@@ -105,8 +102,7 @@ Here are some exercises to practice your understanding of JavaScript variables:
 
    console.log(name, age, isStudent);
    ```
-</details>
-```
+
 2. **Variable Reassignment**
    - Declare a variable `color` using `let` and assign it a value. Reassign the value of `color` and log the result to the console.
 
