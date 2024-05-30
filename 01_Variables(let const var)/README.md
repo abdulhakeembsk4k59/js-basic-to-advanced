@@ -161,6 +161,3 @@ Contributions are welcome! Please create a pull request or open an issue to disc
 This project is licensed under the MIT License.
 
 Feel free to customize or expand upon this template to better suit your project’s needs.
-```
-
-This updated `README.md` includes a new section titled "Exercises" where you can list various exercises for your audience to practice their understanding of JavaScript variables. This should help them get hands-on experience with the concepts discussed.
