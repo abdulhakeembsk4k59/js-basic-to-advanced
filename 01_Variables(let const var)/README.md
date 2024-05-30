@@ -69,6 +69,7 @@ accountPassword = "2323432";
 accountCity = "Manipur";
 
 console.table([accountId, email, accountPassword, accountCity]);
+```
 
 
 ### This script will output a table with the following values:
