@@ -1,6 +1,4 @@
-Certainly! Here’s your updated `README.md` file with a section for exercises added so that your audience can practice in their environment.
 
-```markdown
 # JavaScript Basics to Advanced
 
 Welcome to the JavaScript Basics to Advanced repository. This repository aims to gather extensive knowledge of JavaScript, starting from the basics and progressing to advanced topics.
