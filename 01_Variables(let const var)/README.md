@@ -73,6 +73,7 @@ console.table([accountId, email, accountPassword, accountCity]);
 
 
 ### This script will output a table with the following values:
+```
 ┌─────────┬─────────────────┐
 │ (index) │ Values          │
 ├─────────┼─────────────────┤
@@ -81,6 +82,7 @@ console.table([accountId, email, accountPassword, accountCity]);
 │ 2       │ '2323432'       │
 │ 3       │ 'Manipur'       │
 └─────────┴─────────────────┘
+```
 
 
 ## How to Run
